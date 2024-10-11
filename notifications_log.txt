@@ -1,0 +1,4 @@
+2024-10-10 18:52:12 - Manager has approved reservation for Driver: na hon | Car Type: Sedan | Date: 2024-10-12 to 2024-10-22 | Manager Approved: No | Extension Requested: No | Extension Approved: No
+2024-10-10 18:52:36 - Manager has disapproved extension for Driver: na hon | Car Type: Sedan | Date: 2024-10-12 to 2024-10-30 | Manager Approved: Yes | Extension Requested: Yes | Extension Approved: No
+2024-10-10 18:52:43 - Manager has disapproved extension for Driver: na hon | Car Type: Sedan | Date: 2024-10-12 to 2024-10-30 | Manager Approved: Yes | Extension Requested: No | Extension Approved: No
+2024-10-10 18:52:56 - Manager has approved extension for Driver: na hon | Car Type: Sedan | Date: 2024-10-12 to 2024-10-30 | Manager Approved: Yes | Extension Requested: No | Extension Approved: No
